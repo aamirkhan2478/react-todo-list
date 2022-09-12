@@ -1,10 +1,10 @@
-import React from "react";
-import { Route, Routes } from "react-router-dom";
-import Layout from "../Layouts";
-import AboutList from "../Layouts/Pages/AboutList";
-import AboutPage from "../Layouts/Pages/AboutPage";
-import Home from "../Layouts/Pages/Home";
-import NotFound from "../Layouts/Pages/NotFound";
+import React from 'react';
+import { Route, Routes } from 'react-router-dom';
+import Layout from '../Layouts';
+import AboutList from '../Layouts/Pages/AboutList';
+import AboutPage from '../Layouts/Pages/AboutPage';
+import Home from '../Layouts/Pages/Home';
+import NotFound from '../Layouts/Pages/NotFound';
 
 const Routers = () => (
   <>
