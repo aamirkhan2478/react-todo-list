@@ -1,0 +1,35 @@
+.about-content {
+  padding: 8rem 40px;
+  display: flex;
+}
+
+.about-list {
+  list-style: none;
+  flex: 2;
+  margin-right: 15px;
+}
+
+.about-list a {
+  color: #9f9f9f;
+  text-transform: capitalize;
+  padding: 20px 0;
+  font-weight: 600;
+}
+
+.about-list a:hover {
+  color: #000;
+}
+
+.main-content {
+  flex: 7;
+}
+
+.main-content h1 {
+  margin-bottom: 15px;
+  line-height: 30px;
+  font-size: 30px;
+}
+
+.main-content p {
+  line-height: 25px;
+}
